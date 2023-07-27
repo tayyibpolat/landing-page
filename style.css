@@ -1,0 +1,46 @@
+.one {
+    background-color: rgb(34, 38, 53);
+}
+
+.container1 {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    width: 800px;
+    align-self: center;
+    background-color: rgb(34, 38, 53);
+}
+
+.header-logo {
+    color: white;
+}
+
+.links {
+    display: flex;
+    margin-left: auto;
+    color: white;
+}
+
+.link-one,
+.link-two,
+.link-three {
+    margin-right: 10px;
+}
+
+.main {
+    margin-top: 150px;
+    color: white;
+}
+
+.holder {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 150px;
+    height: 200px;
+    width: 350px;
+    background-color: grey;
+    color: white;
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
